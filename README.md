@@ -1,9 +1,9 @@
-# npc_reactions
+## npc_reactions
 Zone-Based NPC Reactions with Vehicle Chase - ESX Framework
 
-Version:
+## Version:
 
-Author: sethu
+## Author: sethu
 
 Discord:
 
