@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
+author 'Sethu'
 description 'Zone-Based NPC Reactions with Vehicle Chase - ESX Framework'
 version '2.0.0'
 
