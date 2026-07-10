@@ -1,13 +1,7 @@
 ## npc_reactions
 Zone-Based NPC Reactions with Vehicle Chase - ESX Framework
 
-## Version:
-
-## Author: sethu
-
-Discord:
-
-How to Install
+## How to Install
 
 1. Create folder: resources/
 
@@ -17,9 +11,8 @@ npc_reactions/
 
 3. Add to server.cfg:
  
-   ensure es_extended
-
-   ensure npc_reactions
+   *ensure es_extended
+   *ensure npc_reactions
 
 5. Restart server or type:
 
