@@ -11,8 +11,8 @@ npc_reactions/
 
 3. Add to server.cfg:
  
-   *ensure es_extended
-   *ensure npc_reactions
+   * ensure es_extended
+   * ensure npc_reactions
 
 5. Restart server or type:
 
